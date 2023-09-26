@@ -1,4 +1,4 @@
-### Hi there 👋, Rayhan Kapadia
+### Hi there 👋
 #### Software Development and Engineer
 ![Software Developer and Engineer](https://i.ibb.co/CtVf7B0/Keep-it-simple-2.png)
 
