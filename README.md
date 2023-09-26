@@ -4,10 +4,6 @@
 
 I'm Rayhan from Indianapolis, and I do software engineering. I really enjoy learning languages and frameworks like React as well as challenging myself to improve my skills in back-end development.
 
-Skills: C++ / C# / REACT / JS / HTML / CSS / JAVA
-
-- 🔭 I’m currently working on this page. 
-
-
+Skills: C++ / C# / REACT / JS / HTML / CSS / JAVA / PYTHON
 
 
