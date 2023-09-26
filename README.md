@@ -1,8 +1,10 @@
-### Hello! 👋
-- 💻 My name is Rayhan Kapadia. I am a current junior at Butler University majoring in computer science.
-- 💭 I love programming and enjoy coming up with new and unique solutions!
-- ✏️ My profile currently has projects from all my main programming classes at Butler so feel free to take a look.
-- 🏀 When I am not programming I'm always playing basketball.
+### Hi there 👋, Rayhan Kapadia
+#### Software Development and Engineer
+![Software Development and Engineer](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
 
-<!--
-**RayhanWKapadia/RayhanWKapadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rayhan from Indianapolis, and I do software engineering. I really enjoy learning languages and frameworks like React as well as challenging myself to improve my skills in back-end development.
+
+Skills: C++ / REACT / JS / HTML / CSS / JAVA
+
+
+
